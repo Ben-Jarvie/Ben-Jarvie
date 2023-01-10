@@ -47,7 +47,10 @@
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=ffffff" alt="postman"></a>
 </p><br>
 
+<h2 align="center">Testing:</h2>
 
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=react%20testing%20library&logoColor=e9954d&labelColor=ffffff" alt="typescript"></a>
+</p><br>
 
 
 
