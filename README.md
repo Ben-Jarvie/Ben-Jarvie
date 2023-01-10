@@ -12,7 +12,7 @@ If you have any questions, whether work related or you just want to ask somethin
   <img align="center" src="![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=radical)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical" />
 </a>
 
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=radical)
