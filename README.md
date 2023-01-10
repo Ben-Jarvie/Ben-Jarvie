@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="typescript"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/cyprus-17202c.svg?style=for-the-badge&logo=cyprus&logoColor=17202c&labelColor=ffffff" alt="typescript"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="typescript"></a>
 </p><br>
 
 
