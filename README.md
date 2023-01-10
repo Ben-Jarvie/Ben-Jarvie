@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center">:shaka: You can reach me at:</h2>
+<h2 align="center">:smiley: You can reach me at:</h2>
 
 <p align="center">
   <a href="https://benjarvie.com">
