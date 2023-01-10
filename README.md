@@ -42,7 +42,13 @@ If you have any questions, whether work related or you just want to ask somethin
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff" alt="typescript"></a>
 </p>
 
-                                                                                   
+ <h2 align="center">Testing:</h2>
+
+<p align="center">
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="react testing library"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/chrome%20dev%20tools-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=ffffff" alt="react testing library"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="cypress"></a>
+</p>                                                                            
 
 <h2 align="center">Utilities:</h2>
 
@@ -52,14 +58,6 @@ If you have any questions, whether work related or you just want to ask somethin
 </a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=ffffff" alt="postman"></a>
-</p>
-
-<h2 align="center">Testing:</h2>
-
-<p align="center">
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="react testing library"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/chrome%20dev%20tools-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=ffffff" alt="react testing library"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="cypress"></a>
 </p>
                                                                                    
 <h2 align="center">Business:</h2>
