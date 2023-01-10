@@ -8,10 +8,12 @@ From building nodes on Raspbery Pi's, to mining DIY black box, to hardware walle
 
 If you have any questions, whether work related or you just want to ask something about my code, please feel free to reach out via one of the methods below!</p>
 
+<div align="center">
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=radical)
-
+</div>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical)
-
+</div>
 <h2 align="center">Contact:</h2>
 
 <div align="center">
