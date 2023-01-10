@@ -9,7 +9,7 @@
 <div align="center">
                             
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="bash"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>                                                       
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
  
