@@ -1,5 +1,13 @@
 <h2 align="center">About me</h2>
 
+<p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people. 
+
+I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym)
+
+From building nodes on Raspbery Pi's, to mining DIY black box, to hardware wallets (seed signer), to testing others (coldcard, ledger, bitbox etc) and software wallets too - I've nearly done it all (so far). 
+
+If you have any questions, whether work related or you just want to ask something about my code, please feel free to reach out via one of the methods below!</p>
+
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=buefy)
 
 
@@ -8,16 +16,9 @@
 
 <div align="center">
                             
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>                                                       
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
- 
-                                                                              
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sudiptoghosh99](https://www.linkedin.com/in/ben-jarvie-01183724a/)/)]([https://www.linkedin.com/in/ben-jarvie-01183724a/])
-                                                                            
-                                                                                  
-[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
+<a href="[https://twitter.com/newzealandhodl/]"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffffff" alt="bash"></a>
+<a href="https://www.linkedin.com/in/ben-jarvie-01183724a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="bash"></a>
+<a href="https://keybase.io/kiwi_"><img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=keybaseh&logoColor=33A0FF&labelColor=ffffff" alt="bash"></a>                                                                                                                                                        
                                                                                    </div>
 
 <h2 align="center">Familiar With:</h2>
