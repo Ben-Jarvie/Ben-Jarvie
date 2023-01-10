@@ -53,7 +53,13 @@
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="react testing library"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="cypress"></a>
 </p><br>
+                                                                                   
+<h2 align="center">Business:</h2>
 
+<p align="center">
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=0079BF&labelColor=ffffff" alt="Trello"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=4A154B&labelColor=ffffff" alt="Slack"></a>
+</p><br>
 
 <h2 align="center">UX / UI:</h2>
 
