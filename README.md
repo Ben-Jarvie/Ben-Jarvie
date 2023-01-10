@@ -51,6 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="react testing library"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/chrome%20dev%20tools-4285F4.svg?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=ffffff" alt="react testing library"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="cypress"></a>
 </p><br>
                                                                                    
