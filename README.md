@@ -1,6 +1,6 @@
 <h2 align="center">About me</h2>
 
-<img align="center" src="[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=buefy)](https://github.com/ben-jarvie/github-stats-card" />
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=buefy)](https://github.com/ben-jarvie/github-stats-card"
 
 
 
