@@ -1,4 +1,4 @@
-<h2 align="center">About me</h2>
+<h2 align="center">About me:</h2>
 
  <p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people. 
 
