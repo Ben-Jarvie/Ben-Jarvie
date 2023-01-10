@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sudiptoghosh99](https://www.linkedin.com/in/ben-jarvie-01183724a/)/)]([https://www.linkedin.com/in/ben-jarvie-01183724a/])
-[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_))
+[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
 
 <!--
 
@@ -57,4 +57,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie_count=10&theme=tokyonight&layout=compact" alt="Ben Jarvie" /></p>
 
 
---!>
+-->
