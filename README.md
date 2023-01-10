@@ -31,9 +31,11 @@
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ffffff" alt="css3"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/node%20JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=E34F26&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/node%20JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff" alt="react"></a>
 </p><br>
 
+                                                                                   
 
 
 
