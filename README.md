@@ -14,11 +14,15 @@
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 
-<p align="center">
+<a align="center">
  [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
+ </a>  
+                                                                                   <a align="center">
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sudiptoghosh99](https://www.linkedin.com/in/ben-jarvie-01183724a/)/)]([https://www.linkedin.com/in/ben-jarvie-01183724a/])
+                                                                                   </a>
+                                                                                    <a align="center">
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
-</p>
+</a>
 
 <p align="center">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
