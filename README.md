@@ -50,10 +50,14 @@
 <h2 align="center">Testing:</h2>
 
 <p align="center">
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="typescript"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="typescript"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react%20testing%20library-e9954d.svg?style=for-the-badge&logo=octopusdeploy&logoColor=e9954d&labelColor=ffffff" alt="react testing library"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Cypress-17202c.svg?style=for-the-badge&logo=cypress&logoColor=17202c&labelColor=ffffff" alt="cypress"></a>
 </p><br>
 
 
+<h2 align="center">UX / UI:</h2>
 
-
+<p align="center">
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=ffffff" alt="Figma"></a>
+</p><br>
+                                                                                   
