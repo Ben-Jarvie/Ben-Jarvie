@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=ffffff" alt="postman"></a>
 </p><br>
 
 
