@@ -59,6 +59,7 @@
 <p align="center">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=0079BF&labelColor=ffffff" alt="Trello"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=4A154B&labelColor=ffffff" alt="Slack"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=7B68EE&labelColor=ffffff" alt="ClickUp"></a>
 </p><br>
 
 <h2 align="center">UX / UI:</h2>
