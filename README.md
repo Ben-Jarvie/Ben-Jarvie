@@ -26,13 +26,13 @@
                                                                                    <h2 align="center">:smiley: Familiar With:</h2>
 
 <p align="center">
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff" alt="html"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ffffff" alt="css3"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/node%20JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/node%20JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=ffffff" alt="node js"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=ffffff" alt="typescript"></a>
 </p><br>
 
                                                                                    
