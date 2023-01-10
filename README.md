@@ -9,7 +9,7 @@ From building nodes on Raspbery Pi's, to mining DIY black box, to hardware walle
 If you have any questions, whether work related or you just want to ask something about my code, please feel free to reach out via one of the methods below!</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=radical)" />
+  <img align="center" src="https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical" />
