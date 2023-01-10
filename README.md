@@ -1,5 +1,6 @@
 <h2 align="center">About me</h2>
 
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&theme=buefy)](https://github.com/ben-jarvie/github-stats-card)
 
 
 <h2 align="center">:smiley: You can reach me at:</h2>
@@ -24,15 +25,14 @@
                                                                                    <h2 align="center">:smiley: Familiar With:</h2>
 
 <p align="center">
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=f5f542&labelColor=ffffff"" alt="python"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-</p><br>
-
-<p align="center">					    
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 </p><br>
+
+
 
 
 <p align="center">
