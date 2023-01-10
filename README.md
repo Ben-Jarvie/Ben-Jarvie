@@ -11,10 +11,6 @@
   </a>
 
 
-## 𝗪here to reach me
-
-
-
  [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
  
                                                                               
