@@ -1,9 +1,5 @@
 <h2 align="center">About me</h2>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sudiptoghosh99](https://www.linkedin.com/in/ben-jarvie-01183724a/)/)]([https://www.linkedin.com/in/ben-jarvie-01183724a/])
-[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
-
 
 
 <h2 align="center">:smiley: You can reach me at:</h2>
@@ -19,8 +15,9 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/ben-jarvie-01183724a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/newzealandhodl"> <img src="https://img.shields.io/twitter/follow/newzealandhodl?label=Find%20Me&logoColor=orange&style=social"></a>
+ [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sudiptoghosh99](https://www.linkedin.com/in/ben-jarvie-01183724a/)/)]([https://www.linkedin.com/in/ben-jarvie-01183724a/])
+[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
 </p>
 
 <p align="center">
