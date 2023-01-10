@@ -6,14 +6,11 @@
 
 <h2 align="center">Contact:</h2>
 
-<p align="center">
-  <a href="https://benjarvie.com">
-  <a href="mailto:benfjarvie@gmail.com>
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ben Jarvie's Profile" height="30" width="30">
-  </a>
-
 <div align="center">
-                                                                                   
+                            
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>                                                       
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
  
                                                                               
