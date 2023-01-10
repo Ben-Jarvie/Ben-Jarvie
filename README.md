@@ -38,14 +38,9 @@
 <a href="https://github.com/ben-jarvie">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/ben-jarvie">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-
 </p><br>
+
 
 
 
