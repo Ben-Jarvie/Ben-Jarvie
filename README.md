@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=4EAA25" alt="bash"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=ffffff" alt="css3"></a>
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=ffffff" alt="react"></a>
