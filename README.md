@@ -1,6 +1,8 @@
 <h2 align="center">About me</h2>
 
+<div align="center">
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ben-jarvie&layout=compact&theme=buefy)](https://github.com/ben-jarvie/github-stats-card)
+<div>
 
 
 <h2 align="center">:smiley: You can reach me at:</h2>
