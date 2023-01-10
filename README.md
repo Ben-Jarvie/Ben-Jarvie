@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sudiptoghosh99](https://www.linkedin.com/in/ben-jarvie-01183724a/)/)]([https://www.linkedin.com/in/ben-jarvie-01183724a/])
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
 
-<!--
+
 
 <h2 align="center">:shaka: You can reach me at:</h2>
 
@@ -57,4 +57,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie_count=10&theme=tokyonight&layout=compact" alt="Ben Jarvie" /></p>
 
 
--->
