@@ -10,7 +10,7 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ben Jarvie's Profile" height="30" width="30">
   </a>
 
-
+<div align="center">
  [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/newzealandhodl/)](https://twitter.com/newzealandhodl/)
  
                                                                               
@@ -18,6 +18,7 @@
                                                                             
                                                                                   
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
+                                                                                   </div>
 
 
 <p align="center">
