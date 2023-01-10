@@ -23,7 +23,7 @@
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/kiwi_)](https://keybase.io/kiwi_)
                                                                                    </div>
 
-                                                                                   <h2 align="center">:smiley: Familiar With:</h2>
+                                                                                   <h3 align="center">:smiley: Familiar With:</h3>
 
 <p align="center">
 <a href="https://github.com/ben-jarvie"><img src="https://img.shields.io/badge/BASH-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
