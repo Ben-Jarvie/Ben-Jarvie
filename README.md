@@ -28,7 +28,7 @@ I'm a driven self procalimed peoples person who can work well autonomusly or in 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical" />
 </a>
-</div><br/>
+</div>
   
 
 
