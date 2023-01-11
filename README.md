@@ -11,11 +11,11 @@ I'm a driven self procalimed peoples person who can work well autonomusly or in 
 </a>
 <a href="http://www.github.com/ben-jarvie">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ben-jarvie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="ben-jarvie's GitHub stats" />
-</a>
+</a></br>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical" />
-</a>
+</a></br>
   
  </div>
 
