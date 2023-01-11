@@ -24,7 +24,7 @@ If you have any questions, whether work related or you just want to ask somethin
 <h2 align="center">Contact:</h2>
 
 <div align="center">
-<a href="[https://twitter.com/newzealandhodl/]"><img src="https://img.shields.io/badge/Gmail-EA335.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff" alt="Gmail"></a>
+<a href="[https://twitter.com/newzealandhodl/]"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff" alt="Gmail"></a>
 <a href="[https://twitter.com/newzealandhodl/]"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=ffffff" alt="Telegram"></a>
 <a href="[https://twitter.com/newzealandhodl/]"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=ffffff" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/ben-jarvie-01183724a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" alt="LinkedIn"></a>
