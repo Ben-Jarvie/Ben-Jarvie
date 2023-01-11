@@ -12,8 +12,6 @@ I'm a driven self procalimed peoples person who can work well autonomusly or in 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical" />
 </a>
-
-<img src="https://camo.githubusercontent.com/08d0a03……3139313…" alt="Ben's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ben-jarvie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" style="max-width: 100%;">
   
  </div>
 
