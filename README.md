@@ -1,3 +1,9 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben Jarvie
+==================================================================================================================================
+
+Junior Software Engineer
+------------------------
+
 <h2 align="center">About me:</h2>
 
  <p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people. 
