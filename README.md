@@ -2,7 +2,7 @@
 
  <p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people. 
 
-I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym).</p>
+I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym).</p><br/>
 
 <div align="center">
 
@@ -11,11 +11,11 @@ I'm a driven self procalimed peoples person who can work well autonomusly or in 
 </a>
 <a href="http://www.github.com/ben-jarvie">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ben-jarvie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="ben-jarvie's GitHub stats" />
-</a><br>
+</a><br/>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-jarvie&layout=compact&theme=radical" />
-</a><br>
+</a><br/>
   
  </div>
 
