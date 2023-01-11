@@ -5,13 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm A Junior Software Engineer
 ------------------------
- </div>
+ </div><br/>
 
-<h2 align="center">About me:</h2>
+<h2 align="center">About me:</h2><br/>
 
  <p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people. 
 
-I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym).</p>
+I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym).</p><br/>
 
 <div align="center">
 
@@ -32,9 +32,9 @@ I'm a driven self procalimed peoples person who can work well autonomusly or in 
   
 
 
- <p align="center"> From building nodes on Raspbery Pi's, to mining DIY black box, to hardware wallets (seed signer), to testing others (coldcard, ledger, bitbox etc) and software wallets too - I've nearly done it all (so far). 
+<br/> <p align="center"> From building nodes on Raspbery Pi's, to mining DIY black box, to hardware wallets (seed signer), to testing others (coldcard, ledger, bitbox etc) and software wallets too - I've nearly done it all (so far). 
 
-If you have any questions, whether work related or you just want to ask something about my code, please feel free to reach out via one of the methods below!</p>
+If you have any questions, whether work related or you just want to ask something about my code, please feel free to reach out via one of the methods below!</p><br/>
 
 
 
