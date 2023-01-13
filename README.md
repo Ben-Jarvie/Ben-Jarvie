@@ -9,9 +9,9 @@ I'm A Junior Software Engineer
 
 <h2 align="center">About me:</h2><br/>
 
- <p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people. 
+ <p align="center"> Being a kiwi (part Mãori from New Zealand) who moved to the US as a permanent resident to be with my beautiful wife, I feel very fortunate to be here chasing my American dream. My career was sales management, hospitality management and then I transitioned to become a software engineer as I believe that is where I can provide the most value to the most people.</p>
 
-I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym).</p><br/>
+<p align="center">I'm a driven self procalimed peoples person who can work well autonomusly or in a team, I can translate technical jargon into laymans terms and I have great tenacity, which my sales history can attest to. My passions are learning about Austrian Economics (describing human action), Bitcoin (fix the money, fix the world) and doing what I love (family time, coding, hiking, surfing, reading and the gym).</p><br/>
 
 <div align="center">
 
