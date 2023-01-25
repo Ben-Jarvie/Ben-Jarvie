@@ -33,7 +33,7 @@ I'm A Junior Software Engineer
   
 
 
-<br/> <p align="center"> From building nodes on Raspbery Pi's, to mining DIY black box, to hardware wallets (seed signer), to testing others (coldcard, ledger, bitbox etc) and software wallets too - I've nearly done it all (so far).</p>
+<p align="center"> From building nodes on Raspbery Pi's, to mining DIY black box, to hardware wallets (seed signer), to testing others (coldcard, ledger, bitbox etc) and software wallets too - I've nearly done it all (so far).</p>
 
 <p align="center">If you have any questions, whether work related or you just want to ask something about my code, please feel free to reach out via one of the methods below!</p><br/>
 
