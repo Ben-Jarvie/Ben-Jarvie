@@ -31,7 +31,7 @@ I'm A Junior Software Engineer
 </a>
 </div>
   
-
+<div> <br/> </div>
 
 <p align="center"> From building nodes on Raspbery Pi's, to mining DIY black box, to hardware wallets (seed signer), to testing others (coldcard, ledger, bitbox etc) and software wallets too - I've nearly done it all (so far).</p>
 
